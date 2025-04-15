@@ -550,6 +550,7 @@ footer p {
         margin-top: 2rem;
     }
 
+
     #join .gallery-desktop {
         display: none;
     }
@@ -575,6 +576,9 @@ footer p {
             font-size: 2rem;
             color: #b4cfec;
         }
+    .text-center-sm {
+        text-align: center !important;
+    }
 }
 @media (max-width: 480px) {
     .swiper-button-next {
